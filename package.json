@@ -1,0 +1,21 @@
+{
+  "name": "poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SpeechRegonition.js",
+  "dependencies": {
+    "@angular/common": "^11.0.6",
+    "@angular/core": "^11.0.6",
+    "common": "^0.2.5",
+    "microsoft-cognitiveservices-speech-sdk": "^1.14.1",
+    "require": "^2.4.20",
+    "rxjs": "^6.5.3",
+    "zone.js": "^0.10.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
